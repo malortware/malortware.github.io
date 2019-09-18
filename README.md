@@ -16,6 +16,7 @@ Malörtware CTF
 Drink Malört. Hack Better.
 
 ## Upcoming Events
+
 | Event  | Date |
 | ------------- | ------------- |
 | [GrrCon](https://GrrCon.com) | Oct 24 2019 |
