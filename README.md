@@ -25,9 +25,9 @@ Drink Malört. Hack Better.
 
 | Event  | Awards |
 | ------------- | ------------- |
-| DerbyCon 9 - 2019 | 3rd Place (highest single flag points - WAV stego)|
-| DC Darknet 8 - 2019 | 1st Place (competing as SageFault) |
-| ThotCon 0xA - 2019 | 1st Place (Gold Badge) |
+| DerbyCon 9 - 2019 | DerbyCTF: 3rd Place (highest single flag points - WAV stego)<br>DerbyMUD: 1st Place (Black "lifetime" Badge) |
+| DEF CON 27 - 2019 | DC Darknet 8: 1st Place (competing as SageFault) |
+| ThotCon 0xA - 2019 | Digerati's Atlas: 1st Place (Gold "lifetime" Badge) |
 
 ## Writeups
 
