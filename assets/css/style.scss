@@ -1,0 +1,43 @@
+---
+---
+
+$primary-color: #ffbb37;
+$header: $primary-color;
+
+@import "{{site.theme}}";
+
+header pre {
+  color: $primary-color;
+  border: none;
+  background: transparent;
+  font-size: min(1.25vw, 14px);
+  padding: 0;
+  text-shadow: 0 0 10px rgba($primary-color, 0.9);
+}
+
+header a {
+  text-decoration: none;
+}
+
+header, th, hr {
+  border-bottom: 1px dashed $primary-color;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 3em;
+  letter-spacing: normal;
+}
+
+#main_content {
+  -webkit-font-smoothing: auto;
+}
+
+footer {
+  padding: 2em 0;
+  text-align: center;
+
+  .logo {
+    border-radius: 50%;
+    width: 200px;
+  }
+}
