@@ -12,6 +12,7 @@ Drink Malört. Hack Better.
 
 | Event  | Awards |
 | ------------- | ------------- |
+| Shellcon 3 - 2019  | DC562 CTF: 3rd Place |
 | GrrCon - 2019 | OSINT CTF: 2nd Place (@heyczerny) |
 | DerbyCon 9 - 2019 | DerbyCTF: 3rd Place (highest single flag points - WAV stego)<br>DerbyMUD: 1st Place (Black "lifetime" Badge) |
 | DEF CON 27 - 2019 | DC Darknet 8: 1st Place (competing as SageFault) |
