@@ -20,17 +20,20 @@ Drink Malört. Hack Better.
 
 ## Writeups
 
-- [Thotcon 0xA Digerati's Atlas](https://blog.rehr.io/Thotcon-0xA-Digeratis-Atlas-Write-up/)
+- [Thotcon 0xA Digerati's Atlas](https://reset.io/Thotcon-0xA-Digeratis-Atlas-Write-up/)
+- [Thotcon 0xC Sigma Echo](https://github.com/devoopes/challenges/tree/master/thotcon2023)
 
 ## About Malörtware
 
 The Malortware CTF Team was founded in 2019 at ThotCon 0xA by a few folks with a mutual admiration of the notorious Chicago Liquor and hacking. The team is constantly evolving but past and current members include:
 
 - [@BenLGardiner](https://www.twitter.com/BenLGardiner)
-- [@devoopes](https://www.twitter.com/devoopes)
+- [@devoopes](https://github.com/devoopes)
 - [@heyczerny](https://www.twitter.com/heyczerny)
 - [@KennethSalt](https://twitter.com/kenneth_salt)
 - [@mediumrehr](https://www.twitter.com/mediumrehr)
 - [@xmurriel](https://www.twitter.com/xmurriel)
 - [@sagefault](https://www.twitter.com/sagefault)
 - [@solomon](https://www.twitter.com/__solomon__)
+- [grim0us](https://twitter.com/grim0us)
+- [@noonker](https://noonker.github.io/)
